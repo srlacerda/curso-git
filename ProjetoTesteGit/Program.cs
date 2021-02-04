@@ -10,6 +10,7 @@ namespace ProjetoTesteGit
 			Console.WriteLine("Bom dia!");
 			Console.WriteLine("Tenha um bom dia!");
             Console.WriteLine("Salvando credenciais do github");
+            Console.WriteLine("Testando ");
         }
     }
 }
